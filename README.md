@@ -162,12 +162,6 @@ Cybersecurity Learner B083
 
 LinkedIn: https://www.linkedin.com/in/albina-shakil-3a08952a4/
 
----
-
-📌 Project Information
----
-
-Program Name: Cybersecurity at Networkwalks | Week: 04 | Repository: GitHub
 
 ---
 
