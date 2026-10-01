@@ -2,11 +2,14 @@
 
 ## Project Information
 
-**Project:** Web Application Penetration Testing
-**Target:** https://medirozahospital.com
-**Assessment Type:** Authorized Black-Box Penetration Testing
-**Training Program:** Networkwalks
-**Batch:** B083
+| **Detail**           | **Information**                          |
+| -------------------- | ---------------------------------------- |
+| **Project**          | Web Application Penetration Testing      |
+| **Target**           | https://medirozahospital.com             |
+| **Assessment Type**  | Authorized Black-Box Penetration Testing |
+| **Training Program** | Networkwalks                             |
+| **Batch**            | B083                                     |
+
 
 ---
 
