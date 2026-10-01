@@ -23,7 +23,7 @@ The directory contained the following file:
 The database backup was accessible directly through the website without authentication.
 
 **Evidence:**
-Screenshot showing the `/old/` directory listing and the exposed database backup.
+<img width="1222" height="546" alt="Screenshot 2026-10-01 214035" src="https://github.com/user-attachments/assets/cadae459-4e06-4ef6-a7a5-f5d0fba98bbe" />
 
 ## Database Backup Analysis
 
@@ -55,7 +55,10 @@ The `shareholders` table contained information relating to:
 * Share classes
 
 **Evidence:**
-Screenshots showing the relevant SQL table structures and records.
+<img width="1392" height="910" alt="Screenshot 2026-10-01 195316" src="https://github.com/user-attachments/assets/6dbadbea-640d-416b-ab8a-ceb62694d1b1" />
+
+<img width="1686" height="920" alt="Screenshot 2026-10-01 195345" src="https://github.com/user-attachments/assets/0e035beb-d6f2-4507-b5ec-ddbd6bc9a236" />
+
 
 ## Staff Information Exposure
 
@@ -63,8 +66,6 @@ The exposed `staff` table contained sensitive employee information, including sa
 
 The presence of this information in a publicly accessible database backup means that an unauthorized user could obtain employee information without requiring access to the hospital's internal systems.
 
-**Evidence:**
-Screenshot showing the `staff` table and relevant fields.
 
 ## Salary Information Exposure
 
@@ -72,8 +73,6 @@ The `monthly_salary_zar` field in the `staff` table contained salary information
 
 This demonstrated that employee compensation information was included in the publicly accessible database backup.
 
-**Evidence:**
-Screenshot showing the salary-related records.
 
 ## Shareholder Information Exposure
 
@@ -83,8 +82,6 @@ The records included ownership percentages, shares held, and share classes.
 
 This represents exposure of sensitive business and ownership information.
 
-**Evidence:**
-Screenshot showing the shareholder table and relevant records.
 
 ## Result
 
