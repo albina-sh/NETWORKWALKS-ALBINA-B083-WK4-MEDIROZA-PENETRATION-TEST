@@ -14,25 +14,25 @@ The assessment focused on identifying vulnerabilities that could lead to unautho
 
 Identification and exploitation of a vulnerability in the patient authentication mechanism, followed by authorized retrieval of three confidential laboratory reports.
 
-→ [View M1](./M1-Patient-Report-Access/)
+→ [View M1 — Patient Report Access](./M1-Patient-Report-Access/)
 
 ### M2 — PDF Password Recovery
 
 Password recovery testing performed against the three retrieved password-protected laboratory reports using dictionary-based techniques.
 
-→ [View M2](./M2-PDF-Password-Recovery/)
+→ [View M2 — PDF Password Recovery](./M2-PDF-Password-Recovery/)
 
 ### M3 — Sensitive Data Exposure
 
 Investigation of publicly accessible files and an exposed database backup containing staff, salary, and shareholder information.
 
-→ [View M3](./M3-Data-Exposure/)
+→ [View M3 — Sensitive Data Exposure](./M3-Sensitive-Data-Exposure/)
 
-### M4 — Final Penetration Testing Report
+### M4 — Penetration Testing Report
 
-Formal documentation of the assessment findings, risk ratings, and recommended remediation.
+Formal documentation of the assessment findings, risk ratings, proof of exploitation, and recommended remediation.
 
-→ [View M4](./M4-Penetration-Test-Report/)
+→ [View M4 — Penetration Testing Report](./M4-Penetration-Test-Report/)
 
 ## Scope
 
